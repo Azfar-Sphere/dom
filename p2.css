@@ -1,0 +1,27 @@
+body {
+    background: url(BlackForest-Germany-GettyImages-147180370.webp) no-repeat center center / cover ;
+    height: 100vh;
+    position: relative;
+}
+
+#open-btn {
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    width: 350px;
+    height: 80px;
+    font-size: 2rem;
+    background: transparent;
+    color: white;
+    border: solid 2px white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 0 0 3px black;
+    transition: .5s;
+}
+
+#open-btn:hover {
+    background-color: white;
+    color: black;
+
+}
